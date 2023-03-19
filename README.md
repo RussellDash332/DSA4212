@@ -2,6 +2,8 @@
 
 ## Assignment 1
 
+![ResNet](assignment_1/a1_final.png)
+
 ### Objective
 Image classification from 10 classes (fish, dog, device, chainsaw, church, horn, truck, petrol, golf, parachute). Very similar to CIFAR-10 but different set of classes.
 
