@@ -15,7 +15,9 @@ Image classification from 10 classes (fish, dog, device, chainsaw, church, horn,
 ## Assignment 2
 
 ### Objective
-TBC.
+Recommendation system for animes given user preferences. Similar problems available on Kaggle.
 
 ### Constraints
-TBC.
+1. Start with a non-factor model approach
+2. Check if factor model approaches or other methods discuss in class can help improve the system
+3. Optionally improve the recommendation system by all means possible
