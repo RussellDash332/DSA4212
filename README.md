@@ -14,6 +14,8 @@ Image classification from 10 classes (fish, dog, device, chainsaw, church, horn,
 
 ## Assignment 2
 
+![Anime](assignment_2/anime.png)
+
 ### Objective
 Recommendation system for animes given user preferences. Similar problems available on Kaggle.
 
@@ -21,3 +23,16 @@ Recommendation system for animes given user preferences. Similar problems availa
 1. Start with a non-factor model approach
 2. Check if factor model approaches or other methods discuss in class can help improve the system
 3. Optionally improve the recommendation system by all means possible
+
+### Remark
+The data can be obtained from [Kaggle](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database).
+
+## Assignment 3
+
+![TSP](assignment_3/pyconcorde.jpg)
+
+### Objective
+Given `cities.npy` as a TSP instance, find the optimum tour.
+
+### Constraints
+None.
